@@ -1,0 +1,16 @@
+¿Qué entiende como "commit"?
+Un commit es un "version" del programa o proyecto, esta quedara guardada en caso 
+de que una version mas reciente tenga un fallo inesperado.
+
+¿Qué entiende como "merge"?
+Un merge es la acción al momento de pedir o buscar un proyecto ajeno al nuestro
+este sirve para poder compartir el codigo.
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+El Pull es buscar o solicitar codigo que es ajeno, mientras que el push es 
+publicar codigo en el usuario de Github desde alguna aplicacion.
+
+¿Cómo utilizar ramas ("branches") en la aplicación?
+Las ramas sirven para poder realizar diferentes funciones, estas se deben crear
+para que la "master" branch no se sobrecargue y falle. Estas se deben crear al
+momento de hacer un pull, reportar un error o bug, etc.
