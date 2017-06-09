@@ -1,0 +1,9 @@
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\bin\Debug\[IPC2]HT1_201504325.exe.config
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\bin\Debug\[IPC2]HT1_201504325.exe
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\bin\Debug\[IPC2]HT1_201504325.pdb
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\obj\Debug\[IPC2]HT1_201504325.csprojResolveAssemblyReference.cache
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\obj\Debug\_IPC2_HT1_201504325.Form1.resources
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\obj\Debug\_IPC2_HT1_201504325.Properties.Resources.resources
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\obj\Debug\[IPC2]HT1_201504325.csproj.GenerateResource.Cache
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\obj\Debug\[IPC2]HT1_201504325.exe
+C:\Users\fcarv\Documents\Universidad\IPC-2\-IPC2-HT1_201504325\[IPC2]HT1_201504325\[IPC2]HT1_201504325\obj\Debug\[IPC2]HT1_201504325.pdb
