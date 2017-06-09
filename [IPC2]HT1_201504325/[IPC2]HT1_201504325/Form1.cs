@@ -75,5 +75,29 @@ namespace _IPC2_HT1_201504325
 
             }
         }
+
+        private void Funcion3_Click(object sender, EventArgs e)
+        {
+            char[] nombre;
+            char[] apellido;
+            string inapellido = "";
+            string innombre = "";
+
+            nombre = Input1.Text.ToCharArray();
+            apellido = Input2.Text.ToCharArray();
+
+            for(int posicion = 0; posicion < nombre.Length; posicion++)
+            {
+                innombre = innombre + nombre[nombre.Length - (posicion + 1)];
+            }
+
+            for (int posicion = 0; posicion < apellido.Length; posicion++)
+            {
+                inapellido = inapellido + apellido[apellido.Length - (posicion + 1)];
+            }
+
+            Input1.Text = innombre;
+            Input2.Text = inapellido;
+        }
     }
 }

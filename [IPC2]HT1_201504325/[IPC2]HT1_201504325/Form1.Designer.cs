@@ -109,6 +109,7 @@
             this.Funcion3.TabIndex = 5;
             this.Funcion3.Text = "Funcion Invertir";
             this.Funcion3.UseVisualStyleBackColor = true;
+            this.Funcion3.Click += new System.EventHandler(this.Funcion3_Click);
             // 
             // Funcion4
             // 
