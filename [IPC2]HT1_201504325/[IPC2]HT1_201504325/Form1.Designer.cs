@@ -119,6 +119,7 @@
             this.Funcion4.TabIndex = 6;
             this.Funcion4.Text = "Funcion Regla de Tres";
             this.Funcion4.UseVisualStyleBackColor = true;
+            this.Funcion4.Click += new System.EventHandler(this.Funcion4_Click);
             // 
             // Form1
             // 

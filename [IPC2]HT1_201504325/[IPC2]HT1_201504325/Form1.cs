@@ -99,5 +99,22 @@ namespace _IPC2_HT1_201504325
             Input1.Text = innombre;
             Input2.Text = inapellido;
         }
+
+        private void Funcion4_Click(object sender, EventArgs e)
+        {
+            int valora = 0;
+            int valorb = 0;
+            int resa = 0;
+            int resb = 0;
+
+            valora = Int32.Parse(Input1.Text);
+            resa = Int32.Parse(Input2.Text);
+            valorb = Int32.Parse(Input3.Text);
+
+            resb = (resa * valorb) / valora;
+
+            MessageBox.Show(Input1.Text + " es a " + Input2.Text + "como " + Input3.Text + " es a" + resb.ToString());
+            MessageBox.Show("El resultado es " + resb.ToString());
+        }
     }
 }
