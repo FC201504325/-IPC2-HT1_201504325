@@ -80,11 +80,14 @@ namespace _IPC2_HT1_201504325
         {
             char[] nombre;
             char[] apellido;
+            char[] carnet;
             string inapellido = "";
             string innombre = "";
+            string incarnet = "";
 
             nombre = Input1.Text.ToCharArray();
             apellido = Input2.Text.ToCharArray();
+            carnet = Input3.Text.ToCharArray();
 
             for(int posicion = 0; posicion < nombre.Length; posicion++)
             {
@@ -96,8 +99,14 @@ namespace _IPC2_HT1_201504325
                 inapellido = inapellido + apellido[apellido.Length - (posicion + 1)];
             }
 
+            for (int posicion = 0; posicion < carnet.Length; posicion++)
+            {
+                incarnet = incarnet + carnet[carnet.Length - (posicion + 1)];
+            }
+
             Input1.Text = innombre;
             Input2.Text = inapellido;
+            Input3.Text = incarnet;
         }
 
         private void Funcion4_Click(object sender, EventArgs e)
