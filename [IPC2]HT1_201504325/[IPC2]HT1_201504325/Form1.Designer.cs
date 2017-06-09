@@ -99,6 +99,7 @@
             this.Funcion2.TabIndex = 4;
             this.Funcion2.Text = "Funcion Vocales";
             this.Funcion2.UseVisualStyleBackColor = true;
+            this.Funcion2.Click += new System.EventHandler(this.Funcion2_Click);
             // 
             // Funcion3
             // 
